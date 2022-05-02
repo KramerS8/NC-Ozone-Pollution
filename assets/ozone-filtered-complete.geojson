@@ -1,0 +1,2030 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.191,35.9138000008966 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370030005,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Taylorsville Liledoun",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":25860,
+    "CBSA_NAME":"Hickory-Lenoir-Morganton, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":3,
+    "COUNTY":"Alexander"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.933072,35.972347 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370110002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Linville Falls",
+    "DAILY_OBS_COUNT":16,
+    "PERCENT_COMPLETE":94,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":11,
+    "COUNTY":"Avery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0454,36.1058 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370119991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.05,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":46,
+    "Site Name":"Cranberry",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":11,
+    "COUNTY":"Avery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5998603096712,35.500102002749 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370210030,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.044,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":41,
+    "Site Name":"Bent Creek",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":21,
+    "COUNTY":"Buncombe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5306,35.9359000008969 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370270003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Lenoir (city)",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":25860,
+    "CBSA_NAME":"Hickory-Lenoir-Morganton, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":27,
+    "COUNTY":"Caldwell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6203,34.8848 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370319991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.044,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":41,
+    "Site Name":"Beaufort",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":33980,
+    "CBSA_NAME":"Morehead City, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":31,
+    "COUNTY":"Carteret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.467417,36.307033 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370330001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Cherry Grove",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":33,
+    "COUNTY":"Caswell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.728035,35.158686 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370510008,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Wade",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":22180,
+    "CBSA_NAME":"Fayetteville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":51,
+    "COUNTY":"Cumberland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9916923423935,35.0023035275774 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370510010,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Honeycutt School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":22180,
+    "CBSA_NAME":"Fayetteville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":51,
+    "COUNTY":"Cumberland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.904037,36.0329550008979 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370630015,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Durham Armory",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":20500,
+    "CBSA_NAME":"Durham-Chapel Hill, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":63,
+    "COUNTY":"Durham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5843,35.988278 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370650099,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"Leggett",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":40580,
+    "CBSA_NAME":"Rocky Mount, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":65,
+    "COUNTY":"Edgecombe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.224501,36.11094 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370670022,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Hattie Avenue",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.341962,36.026612 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370670030,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Clemmons Middle",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.144933,36.051805 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370671008,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.044,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":41,
+    "Site Name":"Union Cross",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7955,35.2578000008897 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370750001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.052,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":48,
+    "Site Name":"Joanna Bald",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":75,
+    "COUNTY":"Graham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.768056,36.141111 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370770001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Butner",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":37080,
+    "CBSA_NAME":"Oxford, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":77,
+    "COUNTY":"Granville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.802314,36.1090060008986 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370810013,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Mendenhall School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24660,
+    "CBSA_NAME":"Greensboro-High Point, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":81,
+    "COUNTY":"Guilford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.963625,35.507224 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370870008,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Waynesville School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7925,35.379167 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370870035,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.05,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":46,
+    "Site Name":"Frying Pan Mountain",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.074156,35.587144 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":370870036,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.049,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":45,
+    "Site Name":"Purchase Knob",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4622,35.59095 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371010002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"West Johnston Co.",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":39580,
+    "CBSA_NAME":"Raleigh, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":101,
+    "COUNTY":"Johnston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2887,35.4325 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371050002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Blackstone",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":41820,
+    "CBSA_NAME":"Sanford, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":105,
+    "COUNTY":"Lee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5669,35.2318 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371070004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.049,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":45,
+    "Site Name":"Lenoir Co. Comm. Coll.",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":28820,
+    "CBSA_NAME":"Kinston, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":107,
+    "COUNTY":"Lenoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.27675,35.438556 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371090004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Crouse",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":109,
+    "COUNTY":"Lincoln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4306,35.0608 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371139991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Coweeta",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":113,
+    "COUNTY":"Macon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9063,35.81066 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371170001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"Jamesville School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":117,
+    "COUNTY":"Martin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.785683,35.2401000008895 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371190041,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Garinger High School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":119,
+    "COUNTY":"Mecklenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.713469,35.314158 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371190046,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"University Meadows",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":119,
+    "COUNTY":"Mecklenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8365,35.2632 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371239991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.049,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":45,
+    "Site Name":"Candor",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":123,
+    "COUNTY":"Montgomery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.838611,34.364167 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371290002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Castle Hayne",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":48900,
+    "CBSA_NAME":"Wilmington, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":129,
+    "COUNTY":"New Hanover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.09197,36.306965 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371450003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"Bushy Fork",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":20500,
+    "CBSA_NAME":"Durham-Chapel Hill, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":145,
+    "COUNTY":"Person"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.360126,35.6412760008938 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371470006,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Pitt Agri. Center",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24780,
+    "CBSA_NAME":"Greenville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":147,
+    "COUNTY":"Pitt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.859167,36.308889 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371570099,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Bethany sch.",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24660,
+    "CBSA_NAME":"Greensboro-High Point, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":157,
+    "COUNTY":"Rockingham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.395039,35.551868 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371590021,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"Rockwell",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":159,
+    "COUNTY":"Rowan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.442133,35.434767 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371730002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Bryson City",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":173,
+    "COUNTY":"Swain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.310242,35.498711 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371730007,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.045,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":42,
+    "Site Name":"Old High School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":173,
+    "COUNTY":"Swain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54062183,34.974038917 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371790003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.05,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":46,
+    "Site Name":"Monroe School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":179,
+    "COUNTY":"Union"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.574167,35.856111 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371830014,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Millbrook School",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":39580,
+    "CBSA_NAME":"Raleigh, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":183,
+    "COUNTY":"Wake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.264944,35.765413 ]
+    },
+    "properties": {
+    "Date":"03/05/2018",
+    "Source":"AQS",
+    "Site ID":371990004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.05,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":46,
+    "Site Name":"Mt. Mitchell",
+    "DAILY_OBS_COUNT":17,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":199,
+    "COUNTY":"Yancey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.191,35.9138000008966 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370030005,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.06,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":67,
+    "Site Name":"Taylorsville Liledoun",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":25860,
+    "CBSA_NAME":"Hickory-Lenoir-Morganton, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":3,
+    "COUNTY":"Alexander"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.933072,35.972347 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370110002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.059,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":64,
+    "Site Name":"Linville Falls",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":11,
+    "COUNTY":"Avery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0454,36.1058 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370119991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.061,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":71,
+    "Site Name":"Cranberry",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":11,
+    "COUNTY":"Avery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5998603096712,35.500102002749 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370210030,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.06,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":67,
+    "Site Name":"Bent Creek",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":21,
+    "COUNTY":"Buncombe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5306,35.9359000008969 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370270003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.058,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":61,
+    "Site Name":"Lenoir (city)",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":25860,
+    "CBSA_NAME":"Hickory-Lenoir-Morganton, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":27,
+    "COUNTY":"Caldwell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6203,34.8848 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370319991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.047,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Beaufort",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":33980,
+    "CBSA_NAME":"Morehead City, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":31,
+    "COUNTY":"Carteret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.467417,36.307033 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370330001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.054,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":50,
+    "Site Name":"Cherry Grove",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":33,
+    "COUNTY":"Caswell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9916923423935,35.0023035275774 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370510010,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.048,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":44,
+    "Site Name":"Honeycutt School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":22180,
+    "CBSA_NAME":"Fayetteville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":51,
+    "COUNTY":"Cumberland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.904037,36.0329550008979 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370630015,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.044,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":41,
+    "Site Name":"Durham Armory",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":20500,
+    "CBSA_NAME":"Durham-Chapel Hill, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":63,
+    "COUNTY":"Durham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5843,35.988278 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370650099,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.038,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":35,
+    "Site Name":"Leggett",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":40580,
+    "CBSA_NAME":"Rocky Mount, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":65,
+    "COUNTY":"Edgecombe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.224501,36.11094 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370670022,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.059,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":64,
+    "Site Name":"Hattie Avenue",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.341962,36.026612 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370670030,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.061,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":71,
+    "Site Name":"Clemmons Middle",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.144933,36.051805 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370671008,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.055,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":51,
+    "Site Name":"Union Cross",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":49180,
+    "CBSA_NAME":"Winston-Salem, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":67,
+    "COUNTY":"Forsyth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7955,35.2578000008897 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370750001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.059,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":64,
+    "Site Name":"Joanna Bald",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":75,
+    "COUNTY":"Graham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.768056,36.141111 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370770001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.046,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":43,
+    "Site Name":"Butner",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":37080,
+    "CBSA_NAME":"Oxford, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":77,
+    "COUNTY":"Granville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.802314,36.1090060008986 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370810013,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.058,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":61,
+    "Site Name":"Mendenhall School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24660,
+    "CBSA_NAME":"Greensboro-High Point, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":81,
+    "COUNTY":"Guilford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.963625,35.507224 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370870008,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.057,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":58,
+    "Site Name":"Waynesville School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7925,35.379167 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370870035,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.07,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":100,
+    "Site Name":"Frying Pan Mountain",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.074156,35.587144 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":370870036,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.065,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":84,
+    "Site Name":"Purchase Knob",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":11700,
+    "CBSA_NAME":"Asheville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":87,
+    "COUNTY":"Haywood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4622,35.59095 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371010002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.039,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":36,
+    "Site Name":"West Johnston Co.",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":39580,
+    "CBSA_NAME":"Raleigh, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":101,
+    "COUNTY":"Johnston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5669,35.2318 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371070004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.049,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":45,
+    "Site Name":"Lenoir Co. Comm. Coll.",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":28820,
+    "CBSA_NAME":"Kinston, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":107,
+    "COUNTY":"Lenoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.27675,35.438556 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371090004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.057,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":58,
+    "Site Name":"Crouse",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":109,
+    "COUNTY":"Lincoln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4306,35.0608 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371139991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.059,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":64,
+    "Site Name":"Coweeta",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":113,
+    "COUNTY":"Macon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9063,35.81066 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371170001,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.04,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":37,
+    "Site Name":"Jamesville School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":117,
+    "COUNTY":"Martin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.785683,35.2401000008895 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371190041,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.056,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":54,
+    "Site Name":"Garinger High School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":119,
+    "COUNTY":"Mecklenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.713469,35.314158 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371190046,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.057,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":58,
+    "Site Name":"University Meadows",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":119,
+    "COUNTY":"Mecklenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8365,35.2632 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371239991,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.044,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":41,
+    "Site Name":"Candor",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":123,
+    "COUNTY":"Montgomery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.838611,34.364167 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371290002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.043,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":40,
+    "Site Name":"Castle Hayne",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":48900,
+    "CBSA_NAME":"Wilmington, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":129,
+    "COUNTY":"New Hanover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.09197,36.306965 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371450003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.053,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":49,
+    "Site Name":"Bushy Fork",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":20500,
+    "CBSA_NAME":"Durham-Chapel Hill, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":145,
+    "COUNTY":"Person"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.360126,35.6412760008938 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371470006,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.04,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":37,
+    "Site Name":"Pitt Agri. Center",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24780,
+    "CBSA_NAME":"Greenville, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":147,
+    "COUNTY":"Pitt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.859167,36.308889 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371570099,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.061,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":71,
+    "Site Name":"Bethany sch.",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":24660,
+    "CBSA_NAME":"Greensboro-High Point, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":157,
+    "COUNTY":"Rockingham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.395039,35.551868 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371590021,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.055,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":51,
+    "Site Name":"Rockwell",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":159,
+    "COUNTY":"Rowan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.442133,35.434767 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371730002,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.059,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":64,
+    "Site Name":"Bryson City",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":173,
+    "COUNTY":"Swain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54062183,34.974038917 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371790003,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.051,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":47,
+    "Site Name":"Monroe School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":16740,
+    "CBSA_NAME":"Charlotte-Concord-Gastonia, NC-SC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":179,
+    "COUNTY":"Union"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.574167,35.856111 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371830014,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.039,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":36,
+    "Site Name":"Millbrook School",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":39580,
+    "CBSA_NAME":"Raleigh, NC",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":183,
+    "COUNTY":"Wake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.264944,35.765413 ]
+    },
+    "properties": {
+    "Date":"03/05/2022",
+    "Source":"AirNow",
+    "Site ID":371990004,
+    "POC":"1",
+    "Daily Max 8-hour Ozone Concentration":0.062,
+    "UNITS":"ppm",
+    "DAILY_AQI_VALUE":74,
+    "Site Name":"Mt. Mitchell",
+    "DAILY_OBS_COUNT":24,
+    "PERCENT_COMPLETE":100,
+    "AQS_PARAMETER_CODE":44201,
+    "AQS_PARAMETER_DESC":"Ozone",
+    "CBSA_CODE":null,
+    "CBSA_NAME":"",
+    "STATE_CODE":37,
+    "STATE":"North Carolina",
+    "COUNTY_CODE":199,
+    "COUNTY":"Yancey"
+    }
+  }
+]
+}

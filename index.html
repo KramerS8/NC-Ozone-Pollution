@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link href="https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css" rel="stylesheet" />
+  <link href="assets/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;500&display=swap" rel="stylesheet">
+
+  <title>NC Ozone Pollution</title>
+
+<style>
+
+body {
+  padding-top: 57px;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.pagecontainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.sidenav {
+  font-family: 'Oswald', sans-serif;
+  flex-direction: column;
+  background-color: white;
+  z-index: 1;
+  display: flex;
+  justify-content: top;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#legend-title {
+  text-align: center;
+  font-size: 24px;
+}
+.navbar{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500
+}
+
+.button-container {
+  position: absolute;
+  top: 1;
+  right: 0;
+  z-index: 1000;
+}
+
+.yearbutton {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200
+  z-index: 1;
+}
+
+.col
+{
+  padding: unset;
+}
+
+.epaimg {
+  width: 200px;
+  height: 200px;
+  margin: 15px auto;
+}
+.legend {
+  font-family: 'Oswald', sans-serif;
+  background-color: white;
+  margin: 30px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+</style>
+</head>
+
+<body1
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">NC Ozone Pollution</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="https://www.lung.org/media/press-releases/state-of-the-air-2018-nc#:~:text=Ozone%20Pollution%20in%20North%20Carolina&text=days%20of%20ozone.-,Charlotte%20ranks%2041st%20as%20the%20most%20polluted%20city%20in%20the,County%20has%20made%20great%20progress">Article
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="pagecontainer">
+    <div class="col-sm-3 sidenav">
+      <img class="epaimg" src= "assets/epalogo.png">
+      <div>
+        <h2> Ozone </h2>
+        <p> North Carolina has earned mixed grades for the nation’s most widespread air pollutants, ozone and particle pollution. Metropolitan areas have increased levels of ozone pollution. Charlotte ranks 41st as the most polluted city in the nation for ozone. Whereas Wilmington was ranked one of the cleanest with the most healthy air days. Breathing these pollutants can cause asthma attacks, respiratory and cardiovascular harm, and even early death. The Clean Air Act has been responsible for most of the clean up, although it is not enough to protect peoples health from harm. Climate change is a continuous problem that makes ozone harder to clean up. More than four in 10 Americans still live in counties that have unhealthful levels of ozone pollution. The EPA should continuously implement and enforce laws that safeguard people and planet health by reducing air pollution and fighting climate change. For more information, check out the “State of the Air” report in your area provided by the <a href="https://www.lung.org/research/sota">American Lung Association</a>.
+        </p>
+      </div>
+    </div>
+    <div id="map" class="col">
+    </div>
+    <div class="button-container">
+      <button id="yearbutton" type="button" class="btn btn-danger yearbutton">Switch to 2022</button>
+    </div>
+
+  <div class="leaflet-bottom leaflet-right legend">
+    <div class="legend-control-container leaflet-control">
+    <h3 id="legend-title"> Concentration </h3>
+      <svg id="attribute-legend" width="200px" height="75px">
+        <circle class="legend-circle" id="max" r="29.241" cx="50" cy="40.759" fill="#a12b03" fill-opacity="0.6" stroke="#a12b03" cx="88">
+        </circle>
+        <text id="max-text" x="120" y="30"> 0.070 ppm </text>
+        <circle class="legend-circle" id="min" r="4.794" cx="50" cy="65.206" fill="#a12b03" fill-opacity="0.6" stroke="#a12b03" cx="88">
+        </circle>
+        <text id="min-text" x="120" y="60"> 0.039 ppm </text>
+      </svg>
+    </div>
+  </div>
+
+  </div>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+<script>
+    L.mapbox.accessToken = 'pk.eyJ1Ijoia3JhbWVyczgiLCJhIjoiY2wwdmJmMjFjMGIxZjNjczJ3MThrMnk4OSJ9.IE9GJSTJM5lEBGRwCi28xA';
+    var map = L.mapbox.map('map')
+        .setView([35.76729988591492, -79.43452920704961], 7)
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/kramers8/cl23o8rxl006514pcfy48vix9'));
+
+    Data2018 = L.geoJson.ajax("assets/ozone-filtered-complete.geojson",{
+      attribution: 'Data:EPA, Map: Sara Kramer',
+      filter: function(feature, layer) {
+        return feature.properties.Date.includes("2018")
+      },
+      pointToLayer: function (feature, x){
+        return L.circleMarker(x, {
+          color: '#a12b03',
+          opacity: 1,
+          weight: 2,
+          fillColor: '#a12b03',
+          fillOpacity: .6,
+          radius: calcRadius(feature.properties["Daily Max 8-hour Ozone Concentration"])
+        }).on({
+              mouseover: function(e){
+                console.log(this)
+                console.log(e)
+                this.bindTooltip(
+                  "Site Name: " + e.sourceTarget.feature.properties["Site Name"] + "<br>Ozone Concentration: " + e.sourceTarget.feature.properties["Daily Max 8-hour Ozone Concentration"] + "ppm")
+                  .openTooltip();
+                this.setStyle({color: 'blue',fillColor: 'blue'});
+              },
+              mouseout: function(e){
+                this.closeTooltip();
+                this.setStyle({color:'#a12b03', fillColor: '#a12b03'});
+              }
+          })
+        }
+      });
+
+    Data2022 = L.geoJson.ajax("assets/ozone-filtered-complete.geojson",{
+        attribution: 'Data:EPA, Map: Sara Kramer',
+        filter: function(feature, layer) {
+          return feature.properties.Date.includes("2022")
+        },
+        pointToLayer: function (feature, x){
+          // console.log(feature)
+          return L.circleMarker(x, {
+            color: '#a12b03',
+            opacity: 1,
+            weight: 2,
+            fillColor: '#a12b03',
+            fillOpacity: .6,
+            radius: calcRadius(feature.properties["Daily Max 8-hour Ozone Concentration"])
+          }).on({
+                mouseover: function(e){
+                  console.log(this)
+                  console.log(e)
+                  this.bindTooltip(
+                    "Site Name: " + e.sourceTarget.feature.properties["Site Name"] + "<br>Ozone Concentration: " + e.sourceTarget.feature.properties["Daily Max 8-hour Ozone Concentration"] + "ppm")
+                    .openTooltip();
+                  this.setStyle({color: 'blue',fillColor: 'blue'});
+                },
+                mouseout: function(e){
+                  this.closeTooltip();
+                  this.setStyle({color:'#a12b03', fillColor: '#a12b03'});
+                }
+            })
+          }
+        });
+
+        var minValue = 0.039;
+        var minRadius = 4;
+
+        function calcRadius(val) {
+          return 1.00 * Math.pow(val/minValue,3) * minRadius;
+        }
+
+        L.control.scale({position: 'bottomleft'}).addTo(map);
+
+        Data2018.addTo(map);
+
+        $("#yearbutton").click(function(e) {
+          map.removeLayer(Data2018);
+          map.removeLayer(Data2022);
+          var innerHTML = $("#yearbutton")[0].innerHTML;
+          if (innerHTML.includes("2022")) {
+            map.addLayer(Data2022);
+            $("#yearbutton")[0].innerHTML = "Switch to 2018"
+          }
+          else if (innerHTML.includes("2018")) {
+            map.addLayer(Data2018);
+            $("#yearbutton")[0].innerHTML = "Switch to 2022"
+          }
+        })
+
+</script>
+</body>
+</html>
